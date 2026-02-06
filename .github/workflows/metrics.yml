@@ -37,12 +37,13 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          # Notable contributions
-          plugin_notable: yes
-          plugin_notable_repositories: yes
+          # Lines of code changed
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_sections: base
 
-      # ── Right column: extras ──
-      - name: Achievements and stars
+      # ── Right column: traffic + repos ──
+      - name: Traffic and repositories
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics-extras.svg
@@ -52,20 +53,18 @@ jobs:
           base: ""
           config_timezone: America/New_York
 
-          # Achievements
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
+          # Traffic stats (views, clones)
+          plugin_traffic: yes
 
-          # Stars
+          # Starred repos (what you find interesting)
           plugin_stars: yes
           plugin_stars_limit: 4
 
-          # Lines of code changed
-          plugin_lines: yes
-          plugin_lines_history_limit: 1
-          plugin_lines_sections: base
+          # Pinned/featured repositories
+          plugin_repositories: yes
+          plugin_repositories_pinned: 4
+          plugin_repositories_featured: pattty847/Sentinel
 
-          # Commit traffic
-          plugin_traffic: yes
+          # Notable contributions
+          plugin_notable: yes
+          plugin_notable_repositories: yes
