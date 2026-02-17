@@ -1,8 +1,8 @@
 # Hey, I'm Pat
 
-Self-taught. Fell in love with code at 12 decompiling Minecraft and writing hacked clients. Never really stopped pulling things apart.
+Self-taught dev. Fell in love with code at 12 decompiling Minecraft and started writing hacked clients. Never really stopped pulling things apart.
 
-Markets became the obsession. The tools I wanted didn't exist, so I built them — terminal by terminal, language by language, until Python wasn't fast enough and I rewrote it in C++.
+Markets became the obsession in 2020. I always had urges to build my own tools, so my journey started and I built Trade Suite, then Trade Suite v2, then Sentinel. And here we are. 
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
