@@ -1,8 +1,8 @@
 # Hey, I'm Pat
 
-Self-taught programmer who fell in love when I decompiling Minecraft at 12 and wrote hacked clients for my friends and me. Never really stopped pulling things apart to see how they work.
+Self-taught programmer who fell in love when I decompiled Minecraft at 12 and wrote hacked clients for my friends and I. Never really stopped pulling things apart to see how they work.
 
-Markets became the obsession around 2020. I always wanted to invent something, so I took to building trading tools — terminal by terminal, language by language, until I ended up writing GPU-accelerated C++ because Python wasn't fast enough anymore.
+Markets became the obsession around 2020, and I always wanted to invent something, so I took to building trading tools — terminal by terminal, language by language, until I ended up writing GPU-accelerated C++ because Python wasn't fast enough anymore.
 
 ---
 
