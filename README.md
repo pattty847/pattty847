@@ -15,7 +15,7 @@ Markets became the obsession in 2020. I always had urges to build my own tools, 
 
 ## Now
 
-- 🦅 **[Sentinel](https://github.com/pattty847/Sentinel-Trading-Terminal)** — C++20 + Qt6 Bitcoin microstructure terminal. GPU-accelerated orderbook heatmap, 110+ FPS. Built from scratch because the data deserved better.
+- 🦅 **[Sentinel](https://github.com/pattty847/Sentinel-Trading-Terminal)** — C++20 + Qt6 market microstructure terminal featuring a GPU-accelerated order book heatmap (110+ FPS), custom Footprint + TPO charts, and a from-scratch SEC filing viewer. Integrates TradingView screeners and Finviz for stock/crypto scanning.
 - ⚡ **[PromptAnywhere](https://github.com/pattty847/PromptAnywhere)** — Ctrl+Alt+X, anywhere on screen. Ask, screenshot, get an answer. No browser, no context switching.
 - 🧠 **CopeNet** *(inside PromptAnywhere)* — Local AI daemon. Persistent sessions across CLI models (Codex, Claude, Gemini), WebSocket RPC gateway. Eventually the brain wired into everything below.
 
