@@ -16,7 +16,7 @@ Markets became the obsession in 2020. I always had urges to build my own tools, 
 ## Now
 
 - 🦅 **[Sentinel](https://github.com/pattty847/Sentinel-Trading-Terminal)** - C++20 + Qt6 market microstructure terminal featuring a GPU-accelerated order book heatmap (110+ FPS), custom Footprint + TPO charts, and a from-scratch SEC filing viewer. Integrates TradingView screeners and Finviz for stock/crypto scanning.
-- 📈 **[Trade Suite](https://github.com/pattty847/Trade-Suite-v2})** - The original DearPyGui trading terminal that kicked off the Sentinel stack. Features candlestick charts, real-time order book (DOM), multi-exchange data, dockable multi-widget layouts with persistence, and a custom SEC filings viewer. Currently being ported to and expanded in PySide6.
+- 📈 **[Trade Suite](https://github.com/pattty847/Trade-Suite-v2)** - The original DearPyGui trading terminal that kicked off the Sentinel stack. Features candlestick charts, real-time order book (DOM), multi-exchange data, dockable multi-widget layouts with persistence, and a custom SEC filings viewer. Currently being ported to and expanded in PySide6.
 - ⚡ **[PromptAnywhere](https://github.com/pattty847/PromptAnywhere)** - Ctrl+Alt+X, anywhere on screen. Ask, screenshot, get an answer. No browser, no context switching.
 - 🧠 **CopeNet** *(inside PromptAnywhere)* — Local AI daemon. Persistent sessions across CLI models (Codex, Claude, Gemini), WebSocket RPC gateway. Eventually the brain wired into everything below.
 
