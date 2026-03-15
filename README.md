@@ -1,14 +1,6 @@
 # Hey, I'm Pat
 
-Self taught developer building trading terminals and AI systems.
-
-I started at 12 decompiling Minecraft clients and writing hacked mods. Pulling software apart became the habit.
-
-In 2020 markets took over my brain. I started building the tools I wanted to trade with.
-
-Trade Suite → Trade Suite v2 → Sentinel.
-
-The goal now is bigger than a terminal. I am building systems where AI can watch markets the way a trader does.
+Self taught developer building Sentinel. 
 
 ![Codex](https://img.shields.io/badge/-Codex-412991?style=flat-square\&logo=openai\&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square\&logo=anthropic\&logoColor=white)
@@ -47,62 +39,12 @@ Local AI daemon with persistent sessions across Codex, Claude, and Gemini. WebSo
 
 ---
 
-## The Ecosystem
-
-These are not isolated projects. They are converging toward a single idea.
-
-An AI that can see market data, read news, observe order flow, and explain what is happening in real time.
-
-```
-Sentinel          →  GPU heatmap, order book, microstructure (C++)
-Trade-Suite-v2    →  market data, CVD, SEC filings, scanners (Python)
-TranscriptAI      →  video and news download, transcription, analysis
-PromptAnywhere    →  global hotkey UI into CopeNet
-CopeNet           →  persistent AI sessions, provider abstraction, WS gateway
-                          ↑
-                    sees and uses all of it
-```
-
-The idea started with a simple moment.
-
-I pasted a TradingView screenshot into ChatGPT and it correctly explained the price action.
-
-Then the obvious question appeared.
-
-What happens if the AI sees live order book data instead of a screenshot?
-
-That question is still driving everything.
-
----
-
 ## Current Experiments
 
 AI agents that observe live market microstructure
 GPU rendering pipelines for dense financial data
 Persistent multi model AI sessions across CLI agents
 Real time anomaly detection in order flow and liquidity
-
----
-
-## Build Philosophy
-
-Ship real software, not prototypes.
-Performance matters.
-AI should amplify developers, not replace thinking.
-Visual tools reveal patterns that raw numbers hide.
-
----
-
-## How I Got Here
-
-| Year |                                                                         |                                                                     |
-| ---- | ----------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| 2017 | [Space-Invaders](https://github.com/pattty847/Space-Invaders)           | First repo. Python.                                                 |
-| 2022 | [Trade-Suite](https://github.com/pattty847/Trade-Suite)                 | First trading terminal. DearPyGui + CCXT Pro.                       |
-| 2023 | [Crypto-Market-Watch](https://github.com/pattty847/Crypto-Market-Watch) | CVD aggregator with whale tracking. InfluxDB.                       |
-| 2023 | [Trade-Suite-v2](https://github.com/pattty847/Trade-Suite-v2)           | Full rearchitecture with Redis, AI integration, SEC filings viewer. |
-| 2025 | [Sentinel](https://github.com/pattty847/Sentinel-Trading-Terminal)      | C++ GPU trading terminal.                                           |
-| 2026 | CopeNet                                                                 | The AI layer tying everything together.                             |
 
 ---
 
