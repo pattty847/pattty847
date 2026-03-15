@@ -27,12 +27,12 @@ The goal now is bigger than a terminal. I am building systems where AI can watch
 
 ## Now
 
-🦅 **[Sentinel](https://github.com/pattty847/Sentinel-Trading-Terminal)**
+🦅 **[Sentinel](https://github.com/pattty847/Sentinel)**
 C++20 + Qt6 market microstructure terminal.
 
 GPU accelerated order book heatmap with 110+ FPS rendering, custom Footprint and TPO charts, and a from scratch SEC filing viewer. Integrates TradingView screeners and Finviz to scan stock and crypto markets.
 
-📈 **[Trade Suite](https://github.com/pattty847/Trade-Suite-v2)**
+📈 **[Sentinel Lite](https://github.com/pattty847/Sentinel-Lite)**
 The terminal that started everything.
 
 Originally built with DearPyGui. Features candlestick charts, real time order book DOM, multi exchange market data, dockable layouts with persistence, and an SEC filings viewer. Currently being ported and expanded in PySide6.
