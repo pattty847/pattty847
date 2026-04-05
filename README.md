@@ -34,7 +34,7 @@ Ctrl + Alt + X anywhere on screen.
 
 Ask a question, screenshot something, get an answer instantly. No browser. No context switching.
 
-🧠 **CopeNet** *(inside PromptAnywhere)*
+🧠 **[CopeNet](https://github.com/pattty847/CopeNet)** *(inside PromptAnywhere)*
 Local AI daemon with persistent sessions across Codex, Claude, and Gemini. WebSocket RPC gateway that will eventually power the entire ecosystem.
 
 ---
