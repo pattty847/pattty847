@@ -1,8 +1,8 @@
 # Pat
 
-I build local-first AI tooling and trading software.
+I build stuff for fun and bring ideas I have to life. :D
 
-Right now I'm focused on [CopeNet](https://github.com/pattty847/CopeNet): a local-first agent operator studio for running local and CLI-backed models, inspecting what they actually did, and turning useful sessions into repeatable workflows.
+Right now I'm focused on [CopeNet](https://github.com/pattty847/CopeNet): an agent operator studio for running frontier and CLI-backed models in a workspace that I use everyday. You can inspect what they actually do, and turn useful sessions into repeatable workflows. 
 
 ## Main Projects
 
